@@ -15,7 +15,7 @@
 ## 📊Stats
 ![](https://github-readme-stats.vercel.app/api?username=sainu&count_private=true&show_icons=true)<br>
 
-## 🏆trophies
+## 🏆Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sainu&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
 ## 🟡Top Languages
